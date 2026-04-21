@@ -1,0 +1,81 @@
+{
+  "id": "niftyfmcg",
+  "name": "NIFTYFMCG",
+  "rows": [
+    {
+      "securityId": "547",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BRITANNIA INDUSTRIES LTD"
+    },
+    {
+      "securityId": "15141",
+      "exchangeSegment": "NSE_EQ",
+      "label": "COLGATE PALMOLIVE LTD."
+    },
+    {
+      "securityId": "772",
+      "exchangeSegment": "NSE_EQ",
+      "label": "DABUR INDIA LTD"
+    },
+    {
+      "securityId": "13517",
+      "exchangeSegment": "NSE_EQ",
+      "label": "EMAMI LIMITED"
+    },
+    {
+      "securityId": "10099",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GODREJ CONSUMER PRODUCTS"
+    },
+    {
+      "securityId": "1394",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HINDUSTAN UNILEVER LTD."
+    },
+    {
+      "securityId": "1660",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ITC LTD"
+    },
+    {
+      "securityId": "4067",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MARICO LIMITED"
+    },
+    {
+      "securityId": "17963",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NESTLE INDIA LIMITED"
+    },
+    {
+      "securityId": "17029",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PATANJALI FOODS LIMITED"
+    },
+    {
+      "securityId": "10990",
+      "exchangeSegment": "NSE_EQ",
+      "label": "RADICO KHAITAN LTD"
+    },
+    {
+      "securityId": "3432",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TATA CONSUMER PRODUCT LTD"
+    },
+    {
+      "securityId": "16713",
+      "exchangeSegment": "NSE_EQ",
+      "label": "UNITED BREWERIES LTD"
+    },
+    {
+      "securityId": "10447",
+      "exchangeSegment": "NSE_EQ",
+      "label": "UNITED SPIRITS LIMITED"
+    },
+    {
+      "securityId": "18921",
+      "exchangeSegment": "NSE_EQ",
+      "label": "VARUN BEVERAGES LIMITED"
+    }
+  ]
+}
