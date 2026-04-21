@@ -1,0 +1,2331 @@
+{
+  "id": "nifty-500",
+  "name": "NIFTY 500",
+  "rows": [
+    {
+      "securityId": "13061",
+      "exchangeSegment": "NSE_EQ",
+      "label": "360 ONE WAM LIMITED"
+    },
+    {
+      "securityId": "474",
+      "exchangeSegment": "NSE_EQ",
+      "label": "3M INDIA LIMITED"
+    },
+    {
+      "securityId": "23729",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AADHAR HOUSING FINANCE L"
+    },
+    {
+      "securityId": "7",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AARTI INDUSTRIES LTD"
+    },
+    {
+      "securityId": "5385",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AAVAS FINANCIERS LIMITED"
+    },
+    {
+      "securityId": "13",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ABB INDIA LIMITED"
+    },
+    {
+      "securityId": "17903",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ABBOTT INDIA LIMITED"
+    },
+    {
+      "securityId": "21614",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ADITYA BIRLA CAPITAL LTD."
+    },
+    {
+      "securityId": "24308",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ALLIED BLEND N DISTILS L"
+    },
+    {
+      "securityId": "30108",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ADITYA BIRLA FASHION & RT"
+    },
+    {
+      "securityId": "756843",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ADITYA BIRLA LIFES BRAN L"
+    },
+    {
+      "securityId": "625",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ADITYA BIRLA REAL EST LTD"
+    },
+    {
+      "securityId": "6018",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ADIT BIRL SUN LIF AMC LTD"
+    },
+    {
+      "securityId": "22",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ACC LIMITED"
+    },
+    {
+      "securityId": "13587",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ACTION CONST EQUIP LTD"
+    },
+    {
+      "securityId": "27061",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ACME SOLAR HOLDINGS LTD"
+    },
+    {
+      "securityId": "5578",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ACUTAAS CHEMICALS LIMITED"
+    },
+    {
+      "securityId": "10217",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ADANI ENERGY SOLUTION LTD"
+    },
+    {
+      "securityId": "25",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ADANI ENTERPRISES LIMITED"
+    },
+    {
+      "securityId": "3563",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ADANI GREEN ENERGY LTD"
+    },
+    {
+      "securityId": "15083",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ADANI PORT & SEZ LTD"
+    },
+    {
+      "securityId": "17388",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ADANI POWER LTD"
+    },
+    {
+      "securityId": "40",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AEGIS LOGISTICS LIMITED"
+    },
+    {
+      "securityId": "757336",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AEGIS VOPAK TERMINALS LTD"
+    },
+    {
+      "securityId": "25977",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AFCONS INFRASTRUCTURE LTD"
+    },
+    {
+      "securityId": "11343",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AFFLE 3I LIMITED"
+    },
+    {
+      "securityId": "13086",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AIA ENGINEERING LIMITED"
+    },
+    {
+      "securityId": "23553",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AUTHUM INVEST & INFRA LTD"
+    },
+    {
+      "securityId": "8124",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AJANTA PHARMA LIMITED"
+    },
+    {
+      "securityId": "11703",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ALKEM LABORATORIES LTD."
+    },
+    {
+      "securityId": "1185",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AMBER ENTERPRISES (I) LTD"
+    },
+    {
+      "securityId": "1270",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AMBUJA CEMENTS LTD"
+    },
+    {
+      "securityId": "7145",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ANAND RATHI WEALTH LTD"
+    },
+    {
+      "securityId": "13620",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ANANT RAJ LIMITED"
+    },
+    {
+      "securityId": "324",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ANGEL ONE LIMITED"
+    },
+    {
+      "securityId": "757885",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ANTHEM BIOSCIENCES LTD"
+    },
+    {
+      "securityId": "2829",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ANUPAM RASAYAN INDIA LTD"
+    },
+    {
+      "securityId": "11491",
+      "exchangeSegment": "NSE_EQ",
+      "label": "APAR INDUSTRIES LTD."
+    },
+    {
+      "securityId": "25780",
+      "exchangeSegment": "NSE_EQ",
+      "label": "APL APOLLO TUBES LTD"
+    },
+    {
+      "securityId": "163",
+      "exchangeSegment": "NSE_EQ",
+      "label": "APOLLO TYRES LTD"
+    },
+    {
+      "securityId": "5435",
+      "exchangeSegment": "NSE_EQ",
+      "label": "APTUS VALUE HSG FIN I LTD"
+    },
+    {
+      "securityId": "100",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AMARA RAJA ENERGY MOB LTD"
+    },
+    {
+      "securityId": "5378",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ASAHI INDIA GLASS LIMITED"
+    },
+    {
+      "securityId": "212",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ASHOK LEYLAND LTD"
+    },
+    {
+      "securityId": "236",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ASIAN PAINTS LIMITED"
+    },
+    {
+      "securityId": "1508",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ASTER DM HEALTHCARE LTD."
+    },
+    {
+      "securityId": "6066",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ADANI TOTAL GAS LIMITED"
+    },
+    {
+      "securityId": "757645",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ATHER ENERGY LIMITED"
+    },
+    {
+      "securityId": "263",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ATUL LTD"
+    },
+    {
+      "securityId": "21238",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AU SMALL FINANCE BANK LTD"
+    },
+    {
+      "securityId": "275",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AUROBINDO PHARMA LTD"
+    },
+    {
+      "securityId": "8110",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AWL AGRI BUSINESS LIMITED"
+    },
+    {
+      "securityId": "5900",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AXIS BANK LIMITED"
+    },
+    {
+      "securityId": "16669",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BAJAJ AUTO LIMITED"
+    },
+    {
+      "securityId": "16675",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BAJAJ FINSERV LTD."
+    },
+    {
+      "securityId": "25270",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BAJAJ HOUSING FINANCE LTD"
+    },
+    {
+      "securityId": "305",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BAJAJ HOLDINGS & INVS LTD"
+    },
+    {
+      "securityId": "317",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BAJAJ FINANCE LIMITED"
+    },
+    {
+      "securityId": "335",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BALKRISHNA IND. LTD"
+    },
+    {
+      "securityId": "341",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BALRAMPUR CHINI MILLS LTD"
+    },
+    {
+      "securityId": "2263",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BANDHAN BANK LIMITED"
+    },
+    {
+      "securityId": "4668",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BANK OF BARODA"
+    },
+    {
+      "securityId": "371",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BATA INDIA LTD"
+    },
+    {
+      "securityId": "380",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BOMBAY BURMAH TRADING COR"
+    },
+    {
+      "securityId": "2144",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BHARAT DYNAMICS LIMITED"
+    },
+    {
+      "securityId": "757102",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BELRISE INDUSTRIES LTD"
+    },
+    {
+      "securityId": "395",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BEML LIMITED"
+    },
+    {
+      "securityId": "404",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BERGER PAINTS (I) LTD"
+    },
+    {
+      "securityId": "422",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BHARAT FORGE LTD"
+    },
+    {
+      "securityId": "10604",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BHARTI AIRTEL LIMITED"
+    },
+    {
+      "securityId": "23489",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BHARTI HEXACOM LIMITED"
+    },
+    {
+      "securityId": "438",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BHEL"
+    },
+    {
+      "securityId": "11966",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BIKAJI FOODS INTERN LTD"
+    },
+    {
+      "securityId": "11373",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BIOCON LIMITED."
+    },
+    {
+      "securityId": "17279",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BLS INTL SERVS LTD"
+    },
+    {
+      "securityId": "495",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BLUE DART EXPRESS LTD"
+    },
+    {
+      "securityId": "19686",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BLUE JET HEALTHCARE LTD"
+    },
+    {
+      "securityId": "8311",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BLUE STAR LIMITED"
+    },
+    {
+      "securityId": "2181",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BOSCH LIMITED"
+    },
+    {
+      "securityId": "526",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BHARAT PETROLEUM CORP  LT"
+    },
+    {
+      "securityId": "15184",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BRIGADE ENTER. LTD"
+    },
+    {
+      "securityId": "547",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BRITANNIA INDUSTRIES LTD"
+    },
+    {
+      "securityId": "19585",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BSE LIMITED"
+    },
+    {
+      "securityId": "6994",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BIRLASOFT LIMITED"
+    },
+    {
+      "securityId": "342",
+      "exchangeSegment": "NSE_EQ",
+      "label": "COMPUTER AGE MNGT SER LTD"
+    },
+    {
+      "securityId": "10794",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CANARA BANK"
+    },
+    {
+      "securityId": "583",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CAN FIN HOMES LTD"
+    },
+    {
+      "securityId": "759477",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CANARA HSBC LIFE INS CO L"
+    },
+    {
+      "securityId": "3906",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CAPLIN POINT LAB LTD."
+    },
+    {
+      "securityId": "595",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CARBORUNDUM UNIVERSAL LTD"
+    },
+    {
+      "securityId": "5407",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CARTRADE TECH LIMITED"
+    },
+    {
+      "securityId": "1250",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CASTROL INDIA LIMITED"
+    },
+    {
+      "securityId": "11452",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CCL PRODUCTS (I) LTD"
+    },
+    {
+      "securityId": "21174",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CENTRAL DEPO SER (I) LTD"
+    },
+    {
+      "securityId": "15254",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CEAT LIMITED"
+    },
+    {
+      "securityId": "5622",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CEMINDIA PROJECTS LIMITED"
+    },
+    {
+      "securityId": "14894",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CENTRAL BANK OF INDIA"
+    },
+    {
+      "securityId": "628",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CESC LTD"
+    },
+    {
+      "securityId": "20329",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CAPRI GLOBAL CAPITAL LTD"
+    },
+    {
+      "securityId": "760",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CG POWER AND IND SOL LTD"
+    },
+    {
+      "securityId": "8546",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CHALET HOTELS LIMITED"
+    },
+    {
+      "securityId": "637",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CHAMBAL FERTILIZERS LTD"
+    },
+    {
+      "securityId": "2049",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CHENNAI PETROLEUM CORP LT"
+    },
+    {
+      "securityId": "8866",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CHOICE INTERNATIONAL LTD"
+    },
+    {
+      "securityId": "685",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CHOLAMANDALAM IN & FIN CO"
+    },
+    {
+      "securityId": "21740",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CHOLAMANDALAM FIN HOL LTD"
+    },
+    {
+      "securityId": "694",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CIPLA LTD"
+    },
+    {
+      "securityId": "5049",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CLEAN SCIENCE & TECH LTD"
+    },
+    {
+      "securityId": "20374",
+      "exchangeSegment": "NSE_EQ",
+      "label": "COAL INDIA LTD"
+    },
+    {
+      "securityId": "21508",
+      "exchangeSegment": "NSE_EQ",
+      "label": "COCHIN SHIPYARD LIMITED"
+    },
+    {
+      "securityId": "11543",
+      "exchangeSegment": "NSE_EQ",
+      "label": "COFORGE LIMITED"
+    },
+    {
+      "securityId": "17945",
+      "exchangeSegment": "NSE_EQ",
+      "label": "COHANCE LIFESCIENCES LTD"
+    },
+    {
+      "securityId": "15141",
+      "exchangeSegment": "NSE_EQ",
+      "label": "COLGATE PALMOLIVE LTD."
+    },
+    {
+      "securityId": "4749",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CONTAINER CORP OF IND LTD"
+    },
+    {
+      "securityId": "18060",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CONCORD BIOTECH LIMITED"
+    },
+    {
+      "securityId": "739",
+      "exchangeSegment": "NSE_EQ",
+      "label": "COROMANDEL INTERNTL. LTD"
+    },
+    {
+      "securityId": "758858",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ADITYA INFOTECH LIMITED"
+    },
+    {
+      "securityId": "2854",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CRAFTSMAN AUTOMATION LTD"
+    },
+    {
+      "securityId": "4421",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CREDITACCESS GRAMEEN LTD"
+    },
+    {
+      "securityId": "757",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CRISIL LTD"
+    },
+    {
+      "securityId": "17094",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CROMPT GREA CON ELEC LTD"
+    },
+    {
+      "securityId": "5701",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CITY UNION BANK LTD"
+    },
+    {
+      "securityId": "1901",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CUMMINS INDIA LTD"
+    },
+    {
+      "securityId": "5748",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CYIENT LIMITED"
+    },
+    {
+      "securityId": "8075",
+      "exchangeSegment": "NSE_EQ",
+      "label": "DALMIA BHARAT LIMITED"
+    },
+    {
+      "securityId": "7358",
+      "exchangeSegment": "NSE_EQ",
+      "label": "DATA PATTERNS INDIA LTD"
+    },
+    {
+      "securityId": "811",
+      "exchangeSegment": "NSE_EQ",
+      "label": "DCM SHRIRAM LIMITED"
+    },
+    {
+      "securityId": "19943",
+      "exchangeSegment": "NSE_EQ",
+      "label": "DEEPAK NITRITE LTD"
+    },
+    {
+      "securityId": "5373",
+      "exchangeSegment": "NSE_EQ",
+      "label": "DEVYANI INTERNATIONAL LTD"
+    },
+    {
+      "securityId": "10940",
+      "exchangeSegment": "NSE_EQ",
+      "label": "DIVI S LABORATORIES LTD"
+    },
+    {
+      "securityId": "21690",
+      "exchangeSegment": "NSE_EQ",
+      "label": "DIXON TECHNO (INDIA) LTD"
+    },
+    {
+      "securityId": "14732",
+      "exchangeSegment": "NSE_EQ",
+      "label": "DLF LIMITED"
+    },
+    {
+      "securityId": "19913",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AVENUE SUPERMARTS LIMITED"
+    },
+    {
+      "securityId": "20551",
+      "exchangeSegment": "NSE_EQ",
+      "label": "DOMS INDUSTRIES LIMITED"
+    },
+    {
+      "securityId": "881",
+      "exchangeSegment": "NSE_EQ",
+      "label": "DR. REDDY S LABORATORIES"
+    },
+    {
+      "securityId": "15179",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ECLERX SERVICES LTD"
+    },
+    {
+      "securityId": "910",
+      "exchangeSegment": "NSE_EQ",
+      "label": "EICHER MOTORS LTD"
+    },
+    {
+      "securityId": "916",
+      "exchangeSegment": "NSE_EQ",
+      "label": "EID PARRY INDIA LTD"
+    },
+    {
+      "securityId": "919",
+      "exchangeSegment": "NSE_EQ",
+      "label": "EIH LIMITED"
+    },
+    {
+      "securityId": "13643",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ELECON ENG. CO. LTD"
+    },
+    {
+      "securityId": "937",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ELGI EQUIPMENTS LTD"
+    },
+    {
+      "securityId": "13517",
+      "exchangeSegment": "NSE_EQ",
+      "label": "EMAMI LIMITED"
+    },
+    {
+      "securityId": "759728",
+      "exchangeSegment": "NSE_EQ",
+      "label": "EMMVEE PHOTOVOLTAIC PWR L"
+    },
+    {
+      "securityId": "18822",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ENDURANCE TECHNO. LTD."
+    },
+    {
+      "securityId": "4907",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ENGINEERS INDIA LTD"
+    },
+    {
+      "securityId": "756871",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SIEMENS ENERGY INDIA LTD"
+    },
+    {
+      "securityId": "21154",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ERIS LIFESCIENCES LIMITED"
+    },
+    {
+      "securityId": "958",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ESCORTS KUBOTA LIMITED"
+    },
+    {
+      "securityId": "5097",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ETERNAL LIMITED"
+    },
+    {
+      "securityId": "676",
+      "exchangeSegment": "NSE_EQ",
+      "label": "EXIDE INDUSTRIES LTD"
+    },
+    {
+      "securityId": "1008",
+      "exchangeSegment": "NSE_EQ",
+      "label": "FACT LTD"
+    },
+    {
+      "securityId": "1038",
+      "exchangeSegment": "NSE_EQ",
+      "label": "FINOLEX CABLES LTD"
+    },
+    {
+      "securityId": "24814",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BRAINBEES SOLUTIONS LTD"
+    },
+    {
+      "securityId": "12032",
+      "exchangeSegment": "NSE_EQ",
+      "label": "FIVE-STAR BUS FIN LTD"
+    },
+    {
+      "securityId": "13750",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GUJARAT FLUOROCHEM LTD"
+    },
+    {
+      "securityId": "11573",
+      "exchangeSegment": "NSE_EQ",
+      "label": "FORCE MOTORS LIMITED"
+    },
+    {
+      "securityId": "14592",
+      "exchangeSegment": "NSE_EQ",
+      "label": "FORTIS HEALTHCARE LTD"
+    },
+    {
+      "securityId": "14304",
+      "exchangeSegment": "NSE_EQ",
+      "label": "FIRSTSOURCE SOLU. LTD."
+    },
+    {
+      "securityId": "1085",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GABRIEL INDIA LTD"
+    },
+    {
+      "securityId": "4717",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GAIL (INDIA) LTD"
+    },
+    {
+      "securityId": "13337",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GALLANTT ISPAT LIMITED"
+    },
+    {
+      "securityId": "277",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GENERAL INS CORP OF INDIA"
+    },
+    {
+      "securityId": "1576",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GILLETTE INDIA LTD"
+    },
+    {
+      "securityId": "1186",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GLAND PHARMA LIMITED"
+    },
+    {
+      "securityId": "1153",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GLAXOSMITHKLINE PHARMA LT"
+    },
+    {
+      "securityId": "7406",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GLENMARK PHARMACEUTICALS"
+    },
+    {
+      "securityId": "5204",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GUJARAT MINERAL DEV CORP"
+    },
+    {
+      "securityId": "13528",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GMR AIRPORTS LIMITED"
+    },
+    {
+      "securityId": "23799",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GO DIGIT GENERAL INS LTD"
+    },
+    {
+      "securityId": "10099",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GODREJ CONSUMER PRODUCTS"
+    },
+    {
+      "securityId": "10925",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GODREJ INDUSTRIES LTD"
+    },
+    {
+      "securityId": "13409",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GODAWARI POW & ISP LTD"
+    },
+    {
+      "securityId": "11872",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GRANULES INDIA LIMITED"
+    },
+    {
+      "securityId": "592",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GRAPHITE INDIA LTD"
+    },
+    {
+      "securityId": "1232",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GRASIM INDUSTRIES LTD"
+    },
+    {
+      "securityId": "20534",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GRAVITA INDIA LIMITED"
+    },
+    {
+      "securityId": "759806",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BILLIONBRAINS GARAGE VN L"
+    },
+    {
+      "securityId": "5475",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GARDEN REACH SHIP&ENG LTD"
+    },
+    {
+      "securityId": "13197",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GUJARAT STATE PETRO LTD"
+    },
+    {
+      "securityId": "16783",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GE VERNOVA T&D INDIA LTD"
+    },
+    {
+      "securityId": "2303",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HINDUSTAN AERONAUTICS LTD"
+    },
+    {
+      "securityId": "9819",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HAVELLS INDIA LIMITED"
+    },
+    {
+      "securityId": "13966",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HBL ENGINEERING LTD"
+    },
+    {
+      "securityId": "7229",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HCL TECHNOLOGIES LTD"
+    },
+    {
+      "securityId": "757772",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HDB FINANCIAL SERVICES L"
+    },
+    {
+      "securityId": "4244",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HDFC AMC LIMITED"
+    },
+    {
+      "securityId": "1333",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HDFC BANK LTD"
+    },
+    {
+      "securityId": "467",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HDFC LIFE INS CO LTD"
+    },
+    {
+      "securityId": "1348",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HERO MOTOCORP LIMITED"
+    },
+    {
+      "securityId": "29666",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HEXAWARE TECHNOLOGIES LTD"
+    },
+    {
+      "securityId": "21951",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HFCL LIMITED"
+    },
+    {
+      "securityId": "1363",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HINDALCO  INDUSTRIES  LTD"
+    },
+    {
+      "securityId": "1394",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HINDUSTAN UNILEVER LTD."
+    },
+    {
+      "securityId": "1424",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HINDUSTAN ZINC LIMITED"
+    },
+    {
+      "securityId": "2056",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HOME FIRST FIN CO IND LTD"
+    },
+    {
+      "securityId": "19813",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HONASA CONSUMER LIMITED"
+    },
+    {
+      "securityId": "3417",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HONEYWELL AUTOMATION IND"
+    },
+    {
+      "securityId": "14334",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HIMADRI SPECIALITY CHEM L"
+    },
+    {
+      "securityId": "20825",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HSG & URBAN DEV CORPN LTD"
+    },
+    {
+      "securityId": "25844",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HYUNDAI MOTOR INDIA LTD"
+    },
+    {
+      "securityId": "760407",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ICICI PRUDENTIAL AMC LTD"
+    },
+    {
+      "securityId": "4963",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ICICI BANK LTD."
+    },
+    {
+      "securityId": "21770",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ICICI LOMBARD GIC LIMITED"
+    },
+    {
+      "securityId": "18652",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ICICI PRU LIFE INS CO LTD"
+    },
+    {
+      "securityId": "1476",
+      "exchangeSegment": "NSE_EQ",
+      "label": "IDBI BANK LIMITED"
+    },
+    {
+      "securityId": "14366",
+      "exchangeSegment": "NSE_EQ",
+      "label": "VODAFONE IDEA LIMITED"
+    },
+    {
+      "securityId": "11184",
+      "exchangeSegment": "NSE_EQ",
+      "label": "IDFC FIRST BANK LIMITED"
+    },
+    {
+      "securityId": "220",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INDIAN ENERGY EXC LTD"
+    },
+    {
+      "securityId": "1491",
+      "exchangeSegment": "NSE_EQ",
+      "label": "IFCI LTD"
+    },
+    {
+      "securityId": "28378",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INTERNATIO GEMM INS (I) L"
+    },
+    {
+      "securityId": "11262",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INDRAPRASTHA GAS LTD"
+    },
+    {
+      "securityId": "11809",
+      "exchangeSegment": "NSE_EQ",
+      "label": "IIFL FINANCE LIMITED"
+    },
+    {
+      "securityId": "28125",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INVENTURUS KNOWLEDGE SO L"
+    },
+    {
+      "securityId": "23693",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INDEGENE LIMITED"
+    },
+    {
+      "securityId": "1512",
+      "exchangeSegment": "NSE_EQ",
+      "label": "THE INDIAN HOTELS CO. LTD"
+    },
+    {
+      "securityId": "1515",
+      "exchangeSegment": "NSE_EQ",
+      "label": "THE INDIA CEMENTS LIMITED"
+    },
+    {
+      "securityId": "10726",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INDIAMART INTERMESH LTD"
+    },
+    {
+      "securityId": "14309",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INDIAN BANK"
+    },
+    {
+      "securityId": "11195",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INTERGLOBE AVIATION LTD"
+    },
+    {
+      "securityId": "5258",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INDUSIND BANK LIMITED"
+    },
+    {
+      "securityId": "29135",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INDUS TOWERS LIMITED"
+    },
+    {
+      "securityId": "1594",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INFOSYS LIMITED"
+    },
+    {
+      "securityId": "7852",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INOX WIND LIMITED"
+    },
+    {
+      "securityId": "5926",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INTELLECT DESIGN ARENA"
+    },
+    {
+      "securityId": "9348",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INDIAN OVERSEAS BANK"
+    },
+    {
+      "securityId": "1624",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INDIAN OIL CORP LTD"
+    },
+    {
+      "securityId": "1633",
+      "exchangeSegment": "NSE_EQ",
+      "label": "IPCA LABORATORIES LTD"
+    },
+    {
+      "securityId": "15313",
+      "exchangeSegment": "NSE_EQ",
+      "label": "IRB INFRA DEV LTD."
+    },
+    {
+      "securityId": "4986",
+      "exchangeSegment": "NSE_EQ",
+      "label": "IRCON INTERNATIONAL LTD"
+    },
+    {
+      "securityId": "13611",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INDIAN RAIL TOUR CORP LTD"
+    },
+    {
+      "securityId": "20261",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INDIAN RENEWABLE ENERGY"
+    },
+    {
+      "securityId": "2029",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INDIAN RAILWAY FIN CORP L"
+    },
+    {
+      "securityId": "1660",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ITC LTD"
+    },
+    {
+      "securityId": "29251",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ITC HOTELS LIMITED"
+    },
+    {
+      "securityId": "1675",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ITI LTD"
+    },
+    {
+      "securityId": "5633",
+      "exchangeSegment": "NSE_EQ",
+      "label": "J & K BANK LTD."
+    },
+    {
+      "securityId": "759244",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JAIN RESOURCE RECYCLING L"
+    },
+    {
+      "securityId": "1726",
+      "exchangeSegment": "NSE_EQ",
+      "label": "J B CHEMICALS AND PHARMA"
+    },
+    {
+      "securityId": "11655",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JBM AUTO LIMITED"
+    },
+    {
+      "securityId": "6733",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JINDAL STEEL LIMITED"
+    },
+    {
+      "securityId": "18143",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JIO FIN SERVICES LTD"
+    },
+    {
+      "securityId": "13270",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JK CEMENT LIMITED"
+    },
+    {
+      "securityId": "14435",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JK TYRE & INDUSTRIES LTD"
+    },
+    {
+      "securityId": "13637",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JM FINANCIAL LIMITED"
+    },
+    {
+      "securityId": "11763",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JAIPRAKASH POWER VEN. LTD"
+    },
+    {
+      "securityId": "11236",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JINDAL STAINLESS LIMITED"
+    },
+    {
+      "securityId": "758460",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JSW CEMENT LIMITED"
+    },
+    {
+      "securityId": "1467",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JSW DULUX LIMITED"
+    },
+    {
+      "securityId": "17869",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JSW ENERGY LIMITED"
+    },
+    {
+      "securityId": "19020",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JSW INFRASTRUCTURE LTD"
+    },
+    {
+      "securityId": "11723",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JSW STEEL LIMITED"
+    },
+    {
+      "securityId": "18096",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JUBILANT FOODWORKS LTD"
+    },
+    {
+      "securityId": "2783",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JUBILANT INGREVIA LIMITED"
+    },
+    {
+      "securityId": "3637",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JUBILANT PHARMOVA LTD"
+    },
+    {
+      "securityId": "20224",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JUPITER WAGONS LIMITED"
+    },
+    {
+      "securityId": "21334",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JYOTI CNC AUTOMATION LTD"
+    },
+    {
+      "securityId": "1808",
+      "exchangeSegment": "NSE_EQ",
+      "label": "KAJARIA CERAMICS LTD"
+    },
+    {
+      "securityId": "2955",
+      "exchangeSegment": "NSE_EQ",
+      "label": "KALYAN JEWELLERS IND LTD"
+    },
+    {
+      "securityId": "1838",
+      "exchangeSegment": "NSE_EQ",
+      "label": "KARUR VYSYA BANK LTD"
+    },
+    {
+      "securityId": "12092",
+      "exchangeSegment": "NSE_EQ",
+      "label": "KAYNES TECHNOLOGY IND LTD"
+    },
+    {
+      "securityId": "13260",
+      "exchangeSegment": "NSE_EQ",
+      "label": "KEC INTL. LIMITED"
+    },
+    {
+      "securityId": "13310",
+      "exchangeSegment": "NSE_EQ",
+      "label": "KEI INDUSTRIES LTD."
+    },
+    {
+      "securityId": "13359",
+      "exchangeSegment": "NSE_EQ",
+      "label": "KFIN TECHNOLOGIES LIMITED"
+    },
+    {
+      "securityId": "4847",
+      "exchangeSegment": "NSE_EQ",
+      "label": "KRISHNA INST OF MED SCI L"
+    },
+    {
+      "securityId": "20936",
+      "exchangeSegment": "NSE_EQ",
+      "label": "KIRLOSKAR OIL ENG LTD"
+    },
+    {
+      "securityId": "1922",
+      "exchangeSegment": "NSE_EQ",
+      "label": "KOTAK MAHINDRA BANK LTD"
+    },
+    {
+      "securityId": "1814",
+      "exchangeSegment": "NSE_EQ",
+      "label": "KALPATARU PROJECT INT LTD"
+    },
+    {
+      "securityId": "9683",
+      "exchangeSegment": "NSE_EQ",
+      "label": "KPIT TECHNOLOGIES LIMITED"
+    },
+    {
+      "securityId": "14912",
+      "exchangeSegment": "NSE_EQ",
+      "label": "KPR MILL LTD."
+    },
+    {
+      "securityId": "11654",
+      "exchangeSegment": "NSE_EQ",
+      "label": "DR. LAL PATH LABS LTD."
+    },
+    {
+      "securityId": "6818",
+      "exchangeSegment": "NSE_EQ",
+      "label": "LATENT VIEW ANALYTICS LTD"
+    },
+    {
+      "securityId": "19234",
+      "exchangeSegment": "NSE_EQ",
+      "label": "LAURUS LABS LIMITED"
+    },
+    {
+      "securityId": "2606",
+      "exchangeSegment": "NSE_EQ",
+      "label": "LEMON TREE HOTELS LTD"
+    },
+    {
+      "securityId": "759605",
+      "exchangeSegment": "NSE_EQ",
+      "label": "LENSKART SOLUTIONS LTD"
+    },
+    {
+      "securityId": "760213",
+      "exchangeSegment": "NSE_EQ",
+      "label": "LG ELECTRONICS INDIA LTD"
+    },
+    {
+      "securityId": "1997",
+      "exchangeSegment": "NSE_EQ",
+      "label": "LIC HOUSING FINANCE LTD"
+    },
+    {
+      "securityId": "9480",
+      "exchangeSegment": "NSE_EQ",
+      "label": "LIFE INSURA CORP OF INDIA"
+    },
+    {
+      "securityId": "1627",
+      "exchangeSegment": "NSE_EQ",
+      "label": "LINDE INDIA LIMITED"
+    },
+    {
+      "securityId": "17313",
+      "exchangeSegment": "NSE_EQ",
+      "label": "LLOYDS METALS N ENERGY L"
+    },
+    {
+      "securityId": "3220",
+      "exchangeSegment": "NSE_EQ",
+      "label": "LODHA DEVELOPERS LIMITED"
+    },
+    {
+      "securityId": "11483",
+      "exchangeSegment": "NSE_EQ",
+      "label": "LARSEN & TOUBRO LTD."
+    },
+    {
+      "securityId": "24948",
+      "exchangeSegment": "NSE_EQ",
+      "label": "L&T FINANCE LIMITED"
+    },
+    {
+      "securityId": "17818",
+      "exchangeSegment": "NSE_EQ",
+      "label": "LTM LIMITED"
+    },
+    {
+      "securityId": "18564",
+      "exchangeSegment": "NSE_EQ",
+      "label": "L&T TECHNOLOGY SER. LTD."
+    },
+    {
+      "securityId": "2031",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MAHINDRA & MAHINDRA LTD"
+    },
+    {
+      "securityId": "13285",
+      "exchangeSegment": "NSE_EQ",
+      "label": "M&M FIN. SERVICES LTD"
+    },
+    {
+      "securityId": "11377",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BANK OF MAHARASHTRA"
+    },
+    {
+      "securityId": "19061",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MANAPPURAM FINANCE LTD"
+    },
+    {
+      "securityId": "15380",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MANKIND PHARMA LIMITED"
+    },
+    {
+      "securityId": "7227",
+      "exchangeSegment": "NSE_EQ",
+      "label": "C.E. INFO SYSTEMS LIMITED"
+    },
+    {
+      "securityId": "4067",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MARICO LIMITED"
+    },
+    {
+      "securityId": "10999",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MARUTI SUZUKI INDIA LTD."
+    },
+    {
+      "securityId": "22377",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MAX HEALTHCARE INS LTD"
+    },
+    {
+      "securityId": "509",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MAZAGON DOCK SHIPBUIL LTD"
+    },
+    {
+      "securityId": "31181",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MULTI COMMODITY EXCHANGE"
+    },
+    {
+      "securityId": "11956",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GLOBAL HEALTH LIMITED"
+    },
+    {
+      "securityId": "760229",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MEESHO LIMITED"
+    },
+    {
+      "securityId": "2142",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MAX FINANCIAL SERV LTD"
+    },
+    {
+      "securityId": "17534",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MAHANAGAR GAS LTD."
+    },
+    {
+      "securityId": "25897",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MINDA CORPORATION LTD"
+    },
+    {
+      "securityId": "17957",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MMTC LIMITED"
+    },
+    {
+      "securityId": "4204",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SAMVRDHNA MTHRSN INTL LTD"
+    },
+    {
+      "securityId": "14947",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MOTILAL OSWAL FIN LTD"
+    },
+    {
+      "securityId": "4503",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MPHASIS LIMITED"
+    },
+    {
+      "securityId": "2277",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MRF LTD"
+    },
+    {
+      "securityId": "2283",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MRPL"
+    },
+    {
+      "securityId": "8596",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MOTHERSON SUMI WRNG IND L"
+    },
+    {
+      "securityId": "23650",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MUTHOOT FINANCE LIMITED"
+    },
+    {
+      "securityId": "357",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NIPPON L I A M LTD"
+    },
+    {
+      "securityId": "3918",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NATCO PHARMA LTD."
+    },
+    {
+      "securityId": "13751",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INFO EDGE (I) LTD"
+    },
+    {
+      "securityId": "4014",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NAVA LIMITED"
+    },
+    {
+      "securityId": "14672",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NAVIN FLUORINE INT. LTD"
+    },
+    {
+      "securityId": "31415",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NBCC (INDIA) LIMITED"
+    },
+    {
+      "securityId": "2319",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NCC LIMITED"
+    },
+    {
+      "securityId": "17963",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NESTLE INDIA LIMITED"
+    },
+    {
+      "securityId": "2406",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NEULAND LAB LTD."
+    },
+    {
+      "securityId": "1164",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NEWGEN SOFTWARE TECH LTD"
+    },
+    {
+      "securityId": "11840",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NARAYANA HRUDAYALAYA LTD."
+    },
+    {
+      "securityId": "399",
+      "exchangeSegment": "NSE_EQ",
+      "label": "THE NEW INDIA ASSU CO LTD"
+    },
+    {
+      "securityId": "27097",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NIVA BUPA HEALTH INS CO L"
+    },
+    {
+      "securityId": "8585",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NLC INDIA LIMITED"
+    },
+    {
+      "securityId": "14180",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NMDC STEEL LIMITED"
+    },
+    {
+      "securityId": "11630",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NTPC LTD"
+    },
+    {
+      "securityId": "27176",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NTPC GREEN ENERGY LIMITED"
+    },
+    {
+      "securityId": "18721",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NUVAMA WEALTH MANAGE LTD"
+    },
+    {
+      "securityId": "5426",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NUVOCO VISTAS CORP LTD"
+    },
+    {
+      "securityId": "6545",
+      "exchangeSegment": "NSE_EQ",
+      "label": "FSN E COMMERCE VENTURES"
+    },
+    {
+      "securityId": "20242",
+      "exchangeSegment": "NSE_EQ",
+      "label": "OBEROI REALTY LIMITED"
+    },
+    {
+      "securityId": "10738",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ORACLE FIN SERV SOFT LTD."
+    },
+    {
+      "securityId": "24777",
+      "exchangeSegment": "NSE_EQ",
+      "label": "OLA ELECTRIC MOBILITY LTD"
+    },
+    {
+      "securityId": "10637",
+      "exchangeSegment": "NSE_EQ",
+      "label": "OLECTRA GREENTECH LIMITED"
+    },
+    {
+      "securityId": "29224",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ONESOURCE SPECL PHARMA L"
+    },
+    {
+      "securityId": "2475",
+      "exchangeSegment": "NSE_EQ",
+      "label": "OIL AND NATURAL GAS CORP."
+    },
+    {
+      "securityId": "14413",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PAGE INDUSTRIES LTD"
+    },
+    {
+      "securityId": "9741",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PARADEEP PHOSPHATES LTD"
+    },
+    {
+      "securityId": "17029",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PATANJALI FOODS LIMITED"
+    },
+    {
+      "securityId": "6705",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ONE 97 COMMUNICATIONS LTD"
+    },
+    {
+      "securityId": "2649",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PCBL CHEMICAL LIMITED"
+    },
+    {
+      "securityId": "18365",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PERSISTENT SYSTEMS LTD"
+    },
+    {
+      "securityId": "2643",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PFIZER LTD"
+    },
+    {
+      "securityId": "25358",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PG ELECTROPLAST LTD"
+    },
+    {
+      "securityId": "14552",
+      "exchangeSegment": "NSE_EQ",
+      "label": "THE PHOENIX MILLS LTD"
+    },
+    {
+      "securityId": "2664",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PIDILITE INDUSTRIES LTD"
+    },
+    {
+      "securityId": "24184",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PI INDUSTRIES LTD"
+    },
+    {
+      "securityId": "759820",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PINE LABS LIMITED"
+    },
+    {
+      "securityId": "759551",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PIRAMAL FINANCE LIMITED"
+    },
+    {
+      "securityId": "10666",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PUNJAB NATIONAL BANK"
+    },
+    {
+      "securityId": "18908",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PNB HOUSING FIN LTD."
+    },
+    {
+      "securityId": "9590",
+      "exchangeSegment": "NSE_EQ",
+      "label": "POLYCAB INDIA LIMITED"
+    },
+    {
+      "securityId": "25718",
+      "exchangeSegment": "NSE_EQ",
+      "label": "POLY MEDICURE LIMITED"
+    },
+    {
+      "securityId": "11403",
+      "exchangeSegment": "NSE_EQ",
+      "label": "POONAWALLA FINCORP LTD"
+    },
+    {
+      "securityId": "14977",
+      "exchangeSegment": "NSE_EQ",
+      "label": "POWER GRID CORP. LTD."
+    },
+    {
+      "securityId": "18457",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HITACHI ENERGY INDIA LTD"
+    },
+    {
+      "securityId": "11571",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PIRAMAL PHARMA LIMITED"
+    },
+    {
+      "securityId": "25049",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PREMIER ENERGIES LIMITED"
+    },
+    {
+      "securityId": "20302",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PRESTIGE ESTATE LTD"
+    },
+    {
+      "securityId": "16682",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PTC INDUSTRIES LIMITED"
+    },
+    {
+      "securityId": "13147",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PVR INOX LIMITED"
+    },
+    {
+      "securityId": "759723",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PHYSICSWALLAH LIMITED"
+    },
+    {
+      "securityId": "10990",
+      "exchangeSegment": "NSE_EQ",
+      "label": "RADICO KHAITAN LTD"
+    },
+    {
+      "securityId": "2431",
+      "exchangeSegment": "NSE_EQ",
+      "label": "RAILTEL CORP OF IND LTD"
+    },
+    {
+      "securityId": "2043",
+      "exchangeSegment": "NSE_EQ",
+      "label": "THE RAMCO CEMENTS LIMITED"
+    },
+    {
+      "securityId": "15355",
+      "exchangeSegment": "NSE_EQ",
+      "label": "REC LIMITED"
+    },
+    {
+      "securityId": "14255",
+      "exchangeSegment": "NSE_EQ",
+      "label": "REDINGTON LIMITED"
+    },
+    {
+      "securityId": "2885",
+      "exchangeSegment": "NSE_EQ",
+      "label": "RELIANCE INDUSTRIES LTD"
+    },
+    {
+      "securityId": "31163",
+      "exchangeSegment": "NSE_EQ",
+      "label": "RHI MAGNESITA INDIA LTD"
+    },
+    {
+      "securityId": "3761",
+      "exchangeSegment": "NSE_EQ",
+      "label": "RITES LIMITED"
+    },
+    {
+      "securityId": "11411",
+      "exchangeSegment": "NSE_EQ",
+      "label": "RAMKRISHNA FORGINGS LTD"
+    },
+    {
+      "securityId": "15259",
+      "exchangeSegment": "NSE_EQ",
+      "label": "RELIANCE POWER LTD."
+    },
+    {
+      "securityId": "18566",
+      "exchangeSegment": "NSE_EQ",
+      "label": "R R KABEL LIMITED"
+    },
+    {
+      "securityId": "9552",
+      "exchangeSegment": "NSE_EQ",
+      "label": "RAIL VIKAS NIGAM LIMITED"
+    },
+    {
+      "securityId": "27052",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SAGILITY LIMITED"
+    },
+    {
+      "securityId": "2963",
+      "exchangeSegment": "NSE_EQ",
+      "label": "STEEL AUTHORITY OF INDIA"
+    },
+    {
+      "securityId": "27839",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SAI LIFE SCIENCES LIMITED"
+    },
+    {
+      "securityId": "30125",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SAMMAAN CAPITAL LIMITED"
+    },
+    {
+      "securityId": "17758",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SARDA ENERGY & MIN LTD"
+    },
+    {
+      "securityId": "4892",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SAREGAMA INDIA LIMITED"
+    },
+    {
+      "securityId": "18026",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SBFC FINANCE LIMITED"
+    },
+    {
+      "securityId": "17971",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SBI CARDS & PAY SER LTD"
+    },
+    {
+      "securityId": "21808",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SBI LIFE INSURANCE CO LTD"
+    },
+    {
+      "securityId": "3045",
+      "exchangeSegment": "NSE_EQ",
+      "label": "STATE BANK OF INDIA"
+    },
+    {
+      "securityId": "1011",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SCHAEFFLER INDIA LIMITED"
+    },
+    {
+      "securityId": "3048",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SHIPPING CORP OF INDIA LT"
+    },
+    {
+      "securityId": "3103",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SHREE CEMENT LIMITED"
+    },
+    {
+      "securityId": "4306",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SHRIRAM FINANCE LIMITED"
+    },
+    {
+      "securityId": "4693",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SHYAM METALICS AND ENGY L"
+    },
+    {
+      "securityId": "3150",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SIEMENS LTD"
+    },
+    {
+      "securityId": "18743",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SIGNATUREGLOBAL INDIA LTD"
+    },
+    {
+      "securityId": "18883",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SJVN LTD"
+    },
+    {
+      "securityId": "13826",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SOBHA LIMITED"
+    },
+    {
+      "securityId": "4684",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SONA BLW PRECISION FRGS L"
+    },
+    {
+      "securityId": "6596",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SONATA SOFTWARE LTD"
+    },
+    {
+      "securityId": "9617",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SUPREME PETROCHEM LIMITED"
+    },
+    {
+      "securityId": "3273",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SRF LTD"
+    },
+    {
+      "securityId": "7083",
+      "exchangeSegment": "NSE_EQ",
+      "label": "STAR HEALTH & AL INS CO L"
+    },
+    {
+      "securityId": "17105",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SUMITOMO CHEM INDIA LTD"
+    },
+    {
+      "securityId": "3339",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SUNDARAM FINANCE LTD"
+    },
+    {
+      "securityId": "3351",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SUN PHARMACEUTICAL IND L"
+    },
+    {
+      "securityId": "13404",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SUN TV NETWORK LIMITED"
+    },
+    {
+      "securityId": "3363",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SUPREME INDUSTRIES LTD"
+    },
+    {
+      "securityId": "12018",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SUZLON ENERGY LIMITED"
+    },
+    {
+      "securityId": "27095",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SWAN CORP LIMITED"
+    },
+    {
+      "securityId": "27066",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SWIGGY LIMITED"
+    },
+    {
+      "securityId": "10243",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SYNGENE INTERNATIONAL LTD"
+    },
+    {
+      "securityId": "10793",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SYRMA SGS TECHNOLOGY LTD"
+    },
+    {
+      "securityId": "15174",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TRANS & RECTI. LTD"
+    },
+    {
+      "securityId": "759265",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TATA CAPITAL LIMITED"
+    },
+    {
+      "securityId": "3405",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TATA CHEMICALS LTD"
+    },
+    {
+      "securityId": "3721",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TATA COMMUNICATIONS LTD"
+    },
+    {
+      "securityId": "3432",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TATA CONSUMER PRODUCT LTD"
+    },
+    {
+      "securityId": "3411",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TATA ELXSI LIMITED"
+    },
+    {
+      "securityId": "1621",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TATA INVESTMENT CORP LTD"
+    },
+    {
+      "securityId": "3426",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TATA POWER CO LTD"
+    },
+    {
+      "securityId": "20293",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TATA TECHNOLOGIES LIMITED"
+    },
+    {
+      "securityId": "23740",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TBO TEK LIMITED"
+    },
+    {
+      "securityId": "11536",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TATA CONSULTANCY SERV LT"
+    },
+    {
+      "securityId": "13538",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TECH MAHINDRA LIMITED"
+    },
+    {
+      "securityId": "6445",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TECHNO ELEC & ENG CO. LTD"
+    },
+    {
+      "securityId": "7105",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TEGA INDUSTRIES LIMITED"
+    },
+    {
+      "securityId": "21131",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TEJAS NETWORKS LIMITED"
+    },
+    {
+      "securityId": "759880",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TENNECO CLEAN AIR INDIA L"
+    },
+    {
+      "securityId": "312",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TUBE INVEST OF INDIA LTD"
+    },
+    {
+      "securityId": "14198",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TIMKEN INDIA LTD."
+    },
+    {
+      "securityId": "15414",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TITAGARH RAIL SYSTEMS LTD"
+    },
+    {
+      "securityId": "3506",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TITAN COMPANY LIMITED"
+    },
+    {
+      "securityId": "759782",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TATA MOTORS LIMITED"
+    },
+    {
+      "securityId": "3456",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TATA MOTORS PASS VEH LTD"
+    },
+    {
+      "securityId": "3518",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TORRENT PHARMACEUTICALS L"
+    },
+    {
+      "securityId": "13786",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TORRENT POWER LTD"
+    },
+    {
+      "securityId": "757545",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TRAVEL FOOD SERVICES LTD"
+    },
+    {
+      "securityId": "1964",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TRENT LTD"
+    },
+    {
+      "securityId": "9685",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TRIDENT LIMITED"
+    },
+    {
+      "securityId": "25584",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TRIVENI TURBINE LIMITED"
+    },
+    {
+      "securityId": "8954",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TATA TELESERV(MAHARASTRA)"
+    },
+    {
+      "securityId": "8479",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TVS MOTOR COMPANY  LTD"
+    },
+    {
+      "securityId": "16713",
+      "exchangeSegment": "NSE_EQ",
+      "label": "UNITED BREWERIES LTD"
+    },
+    {
+      "securityId": "11223",
+      "exchangeSegment": "NSE_EQ",
+      "label": "UCO BANK"
+    },
+    {
+      "securityId": "11532",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ULTRATECH CEMENT LIMITED"
+    },
+    {
+      "securityId": "10753",
+      "exchangeSegment": "NSE_EQ",
+      "label": "UNION BANK OF INDIA"
+    },
+    {
+      "securityId": "10447",
+      "exchangeSegment": "NSE_EQ",
+      "label": "UNITED SPIRITS LIMITED"
+    },
+    {
+      "securityId": "14154",
+      "exchangeSegment": "NSE_EQ",
+      "label": "UNO MINDA LIMITED"
+    },
+    {
+      "securityId": "11287",
+      "exchangeSegment": "NSE_EQ",
+      "label": "UPL LIMITED"
+    },
+    {
+      "securityId": "759084",
+      "exchangeSegment": "NSE_EQ",
+      "label": "URBAN COMPANY LIMITED"
+    },
+    {
+      "securityId": "8840",
+      "exchangeSegment": "NSE_EQ",
+      "label": "USHA MARTIN LTD."
+    },
+    {
+      "securityId": "527",
+      "exchangeSegment": "NSE_EQ",
+      "label": "UTI ASSET MNGMT CO LTD"
+    },
+    {
+      "securityId": "18921",
+      "exchangeSegment": "NSE_EQ",
+      "label": "VARUN BEVERAGES LIMITED"
+    },
+    {
+      "securityId": "3063",
+      "exchangeSegment": "NSE_EQ",
+      "label": "VEDANTA LIMITED"
+    },
+    {
+      "securityId": "5585",
+      "exchangeSegment": "NSE_EQ",
+      "label": "VIJAYA DIAGNOSTIC CEN LTD"
+    },
+    {
+      "securityId": "27969",
+      "exchangeSegment": "NSE_EQ",
+      "label": "VISHAL MEGA MART LIMITED"
+    },
+    {
+      "securityId": "3718",
+      "exchangeSegment": "NSE_EQ",
+      "label": "VOLTAS LTD"
+    },
+    {
+      "securityId": "2073",
+      "exchangeSegment": "NSE_EQ",
+      "label": "VARDHMAN TEXTILES LIMITED"
+    },
+    {
+      "securityId": "25907",
+      "exchangeSegment": "NSE_EQ",
+      "label": "WAAREE ENERGIES LIMITED"
+    },
+    {
+      "securityId": "11821",
+      "exchangeSegment": "NSE_EQ",
+      "label": "WELSPUN CORP LIMITED"
+    },
+    {
+      "securityId": "11253",
+      "exchangeSegment": "NSE_EQ",
+      "label": "WELSPUN LIVING LIMITED"
+    },
+    {
+      "securityId": "18011",
+      "exchangeSegment": "NSE_EQ",
+      "label": "WHIRLPOOL OF INDIA LTD"
+    },
+    {
+      "securityId": "3787",
+      "exchangeSegment": "NSE_EQ",
+      "label": "WIPRO LTD"
+    },
+    {
+      "securityId": "7506",
+      "exchangeSegment": "NSE_EQ",
+      "label": "WOCKHARDT LIMITED"
+    },
+    {
+      "securityId": "11915",
+      "exchangeSegment": "NSE_EQ",
+      "label": "YES BANK LIMITED"
+    },
+    {
+      "securityId": "3812",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ZEE ENTERTAINMENT ENT LTD"
+    },
+    {
+      "securityId": "1076",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ZENSAR TECHNOLOGIES  LTD"
+    },
+    {
+      "securityId": "7508",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ZEN TECHNOLOGIES LIMITED"
+    },
+    {
+      "securityId": "16915",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ZF COM VE CTR SYS IND LTD"
+    },
+    {
+      "securityId": "7929",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ZYDUS LIFESCIENCES LTD"
+    },
+    {
+      "securityId": "17635",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ZYDUS WELLNESS LIMITED"
+    }
+  ]
+}
