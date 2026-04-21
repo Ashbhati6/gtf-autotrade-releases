@@ -21,6 +21,16 @@
       "count": 15,
       "updatedAt": "2026-04-21",
       "file": "packs/nifty-auto.json"
+    },
+    {
+      "id": "nifty-500",
+      "name": "NIFTY 500",
+      "folderName": "NIFTY 500",
+      "category": "Sector",
+      "description": "NIFTY 500 watchlist pack",
+      "count": 465,
+      "updatedAt": "2026-04-21",
+      "file": "packs/nifty-500.json"
     }
   ]
 }
