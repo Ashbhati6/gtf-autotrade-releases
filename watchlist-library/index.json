@@ -161,6 +161,16 @@
       "count": 193,
       "updatedAt": "2026-04-21",
       "file": "packs/jatin-eye.json"
+    },
+    {
+      "id": "f-and-o-stocks",
+      "name": "F&O STOCKS",
+      "folderName": "F&O STOCKS",
+      "category": "Sector",
+      "description": "F&O STOCKS watchlist pack",
+      "count": 186,
+      "updatedAt": "2026-04-21",
+      "file": "packs/f-and-o-stocks.json"
     }
   ]
 }
