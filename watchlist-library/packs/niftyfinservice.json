@@ -1,0 +1,106 @@
+{
+  "id": "niftyfinservice",
+  "name": "NIFTYFINSERVICE",
+  "rows": [
+    {
+      "securityId": "5900",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AXIS BANK LIMITED"
+    },
+    {
+      "securityId": "16675",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BAJAJ FINSERV LTD."
+    },
+    {
+      "securityId": "317",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BAJAJ FINANCE LIMITED"
+    },
+    {
+      "securityId": "19585",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BSE LIMITED"
+    },
+    {
+      "securityId": "685",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CHOLAMANDALAM IN & FIN CO"
+    },
+    {
+      "securityId": "1333",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HDFC BANK LTD"
+    },
+    {
+      "securityId": "467",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HDFC LIFE INS CO LTD"
+    },
+    {
+      "securityId": "4963",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ICICI BANK LTD."
+    },
+    {
+      "securityId": "21770",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ICICI LOMBARD GIC LIMITED"
+    },
+    {
+      "securityId": "18143",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JIO FIN SERVICES LTD"
+    },
+    {
+      "securityId": "1922",
+      "exchangeSegment": "NSE_EQ",
+      "label": "KOTAK MAHINDRA BANK LTD"
+    },
+    {
+      "securityId": "1997",
+      "exchangeSegment": "NSE_EQ",
+      "label": "LIC HOUSING FINANCE LTD"
+    },
+    {
+      "securityId": "2142",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MAX FINANCIAL SERV LTD"
+    },
+    {
+      "securityId": "23650",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MUTHOOT FINANCE LIMITED"
+    },
+    {
+      "securityId": "14299",
+      "exchangeSegment": "NSE_EQ",
+      "label": "POWER FIN CORP LTD."
+    },
+    {
+      "securityId": "15355",
+      "exchangeSegment": "NSE_EQ",
+      "label": "REC LIMITED"
+    },
+    {
+      "securityId": "17971",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SBI CARDS & PAY SER LTD"
+    },
+    {
+      "securityId": "21808",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SBI LIFE INSURANCE CO LTD"
+    },
+    {
+      "securityId": "3045",
+      "exchangeSegment": "NSE_EQ",
+      "label": "STATE BANK OF INDIA"
+    },
+    {
+      "securityId": "4306",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SHRIRAM FINANCE LIMITED"
+    }
+  ]
+}
