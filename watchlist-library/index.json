@@ -31,6 +31,16 @@
       "count": 10,
       "updatedAt": "2026-04-21",
       "file": "packs/sample-equity-pack.json"
+    },
+    {
+      "id": "nifty-auto",
+      "name": "NIFTY AUTO",
+      "folderName": "NIFTY AUTO",
+      "category": "Sector",
+      "description": "NIFTY AUTO watchlist pack",
+      "count": 15,
+      "updatedAt": "2026-04-21",
+      "file": "packs/nifty-auto.json"
     }
   ]
 }
