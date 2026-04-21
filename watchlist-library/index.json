@@ -13,26 +13,6 @@
       "file": "packs/index-watch.json"
     },
     {
-      "id": "nifty-sector-indexes",
-      "name": "NIFTY Sector Indexes",
-      "folderName": "NIFTY Sector Indexes",
-      "category": "Index",
-      "description": "Popular NIFTY sector and strategy index watchlist.",
-      "count": 24,
-      "updatedAt": "2026-04-21",
-      "file": "packs/nifty-sector-indexes.json"
-    },
-    {
-      "id": "sample-equity-pack",
-      "name": "Sample Equity Pack",
-      "folderName": "Sample Equity Pack",
-      "category": "Equity",
-      "description": "Starter pack format for NSE_EQ stocks. Replace or expand with your curated stocks.",
-      "count": 10,
-      "updatedAt": "2026-04-21",
-      "file": "packs/sample-equity-pack.json"
-    },
-    {
       "id": "nifty-auto",
       "name": "NIFTY AUTO",
       "folderName": "NIFTY AUTO",
