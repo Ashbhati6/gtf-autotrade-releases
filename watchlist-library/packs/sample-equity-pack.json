@@ -1,0 +1,16 @@
+{
+  "id": "sample-equity-pack",
+  "name": "Sample Equity Pack",
+  "rows": [
+    { "securityId": "14977", "exchangeSegment": "NSE_EQ", "label": "POWERGRID" },
+    { "securityId": "11536", "exchangeSegment": "NSE_EQ", "label": "TCS" },
+    { "securityId": "1348", "exchangeSegment": "NSE_EQ", "label": "HEROMOTOCO" },
+    { "securityId": "11351", "exchangeSegment": "NSE_EQ", "label": "PETRONET" },
+    { "securityId": "10794", "exchangeSegment": "NSE_EQ", "label": "CANBK" },
+    { "securityId": "547", "exchangeSegment": "NSE_EQ", "label": "BRITANNIA" },
+    { "securityId": "3499", "exchangeSegment": "NSE_EQ", "label": "TATASTEEL" },
+    { "securityId": "17818", "exchangeSegment": "NSE_EQ", "label": "LICHSGFIN" },
+    { "securityId": "5900", "exchangeSegment": "NSE_EQ", "label": "AXISBANK" },
+    { "securityId": "3045", "exchangeSegment": "NSE_EQ", "label": "SBIN" }
+  ]
+}
