@@ -1,0 +1,56 @@
+{
+  "id": "niftymedia",
+  "name": "NIFTYMEDIA",
+  "rows": [
+    {
+      "securityId": "17881",
+      "exchangeSegment": "NSE_EQ",
+      "label": "D.B.CORP LTD"
+    },
+    {
+      "securityId": "18154",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HATHWAY CABLE & DATACOM"
+    },
+    {
+      "securityId": "2987",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NAZARA TECHNOLOGIES LTD"
+    },
+    {
+      "securityId": "14111",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NETWORK18 MEDIA & INV LTD"
+    },
+    {
+      "securityId": "13496",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PRIME FOCUS LIMITED"
+    },
+    {
+      "securityId": "13147",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PVR INOX LIMITED"
+    },
+    {
+      "securityId": "4892",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SAREGAMA INDIA LIMITED"
+    },
+    {
+      "securityId": "13404",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SUN TV NETWORK LIMITED"
+    },
+    {
+      "securityId": "9117",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TIPS MUSIC LIMITED"
+    },
+    {
+      "securityId": "3812",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ZEE ENTERTAINMENT ENT LTD"
+    }
+  ]
+}
