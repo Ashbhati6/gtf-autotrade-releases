@@ -1,0 +1,4 @@
+symbol,securityId,exchangeSegment,label
+SBIN,,NSE_EQ,SBIN
+HDFCBANK,,NSE_EQ,HDFCBANK
+AXISBANK,,NSE_EQ,AXISBANK
