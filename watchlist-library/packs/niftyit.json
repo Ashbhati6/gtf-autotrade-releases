@@ -1,0 +1,56 @@
+{
+  "id": "niftyit",
+  "name": "NIFTYIT",
+  "rows": [
+    {
+      "securityId": "11543",
+      "exchangeSegment": "NSE_EQ",
+      "label": "COFORGE LIMITED"
+    },
+    {
+      "securityId": "7229",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HCL TECHNOLOGIES LTD"
+    },
+    {
+      "securityId": "1594",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INFOSYS LIMITED"
+    },
+    {
+      "securityId": "17818",
+      "exchangeSegment": "NSE_EQ",
+      "label": "LTM LIMITED"
+    },
+    {
+      "securityId": "4503",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MPHASIS LIMITED"
+    },
+    {
+      "securityId": "10738",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ORACLE FIN SERV SOFT LTD."
+    },
+    {
+      "securityId": "18365",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PERSISTENT SYSTEMS LTD"
+    },
+    {
+      "securityId": "11536",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TATA CONSULTANCY SERV LT"
+    },
+    {
+      "securityId": "13538",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TECH MAHINDRA LIMITED"
+    },
+    {
+      "securityId": "3787",
+      "exchangeSegment": "NSE_EQ",
+      "label": "WIPRO LTD"
+    }
+  ]
+}
