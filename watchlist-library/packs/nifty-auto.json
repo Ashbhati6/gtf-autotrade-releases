@@ -1,0 +1,81 @@
+{
+  "id": "nifty-auto",
+  "name": "NIFTY AUTO",
+  "rows": [
+    {
+      "securityId": "212",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ASHOKLEY"
+    },
+    {
+      "securityId": "16669",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BAJAJ-AUTO"
+    },
+    {
+      "securityId": "422",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BHARATFORG"
+    },
+    {
+      "securityId": "2181",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BOSCHLTD"
+    },
+    {
+      "securityId": "910",
+      "exchangeSegment": "NSE_EQ",
+      "label": "EICHERMOT"
+    },
+    {
+      "securityId": "676",
+      "exchangeSegment": "NSE_EQ",
+      "label": "EXIDEIND"
+    },
+    {
+      "securityId": "1348",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HEROMOTOCO"
+    },
+    {
+      "securityId": "2031",
+      "exchangeSegment": "NSE_EQ",
+      "label": "M&M"
+    },
+    {
+      "securityId": "10999",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MARUTI"
+    },
+    {
+      "securityId": "4204",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MOTHERSON"
+    },
+    {
+      "securityId": "4684",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SONACOMS"
+    },
+    {
+      "securityId": "312",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TIINDIA"
+    },
+    {
+      "securityId": "3456",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TMPV"
+    },
+    {
+      "securityId": "8479",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TVSMOTOR"
+    },
+    {
+      "securityId": "14154",
+      "exchangeSegment": "NSE_EQ",
+      "label": "UNOMINDA"
+    }
+  ]
+}
