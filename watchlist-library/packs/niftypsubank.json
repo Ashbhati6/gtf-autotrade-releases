@@ -1,0 +1,66 @@
+{
+  "id": "niftypsubank",
+  "name": "NIFTYPSUBANK",
+  "rows": [
+    {
+      "securityId": "4668",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BANK OF BARODA"
+    },
+    {
+      "securityId": "4745",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BANK OF INDIA"
+    },
+    {
+      "securityId": "10794",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CANARA BANK"
+    },
+    {
+      "securityId": "14894",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CENTRAL BANK OF INDIA"
+    },
+    {
+      "securityId": "14309",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INDIAN BANK"
+    },
+    {
+      "securityId": "9348",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INDIAN OVERSEAS BANK"
+    },
+    {
+      "securityId": "11377",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BANK OF MAHARASHTRA"
+    },
+    {
+      "securityId": "10666",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PUNJAB NATIONAL BANK"
+    },
+    {
+      "securityId": "21001",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PUNJAB & SIND BANK"
+    },
+    {
+      "securityId": "3045",
+      "exchangeSegment": "NSE_EQ",
+      "label": "STATE BANK OF INDIA"
+    },
+    {
+      "securityId": "11223",
+      "exchangeSegment": "NSE_EQ",
+      "label": "UCO BANK"
+    },
+    {
+      "securityId": "10753",
+      "exchangeSegment": "NSE_EQ",
+      "label": "UNION BANK OF INDIA"
+    }
+  ]
+}
