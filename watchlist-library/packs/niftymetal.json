@@ -1,0 +1,81 @@
+{
+  "id": "niftymetal",
+  "name": "NIFTYMETAL",
+  "rows": [
+    {
+      "securityId": "25",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ADANI ENTERPRISES LIMITED"
+    },
+    {
+      "securityId": "25780",
+      "exchangeSegment": "NSE_EQ",
+      "label": "APL APOLLO TUBES LTD"
+    },
+    {
+      "securityId": "1363",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HINDALCO  INDUSTRIES  LTD"
+    },
+    {
+      "securityId": "17939",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HINDUSTAN COPPER LTD"
+    },
+    {
+      "securityId": "1424",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HINDUSTAN ZINC LIMITED"
+    },
+    {
+      "securityId": "6733",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JINDAL STEEL LIMITED"
+    },
+    {
+      "securityId": "11236",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JINDAL STAINLESS LIMITED"
+    },
+    {
+      "securityId": "11723",
+      "exchangeSegment": "NSE_EQ",
+      "label": "JSW STEEL LIMITED"
+    },
+    {
+      "securityId": "17313",
+      "exchangeSegment": "NSE_EQ",
+      "label": "LLOYDS METALS N ENERGY L"
+    },
+    {
+      "securityId": "6364",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NATIONAL ALUMINIUM CO LTD"
+    },
+    {
+      "securityId": "15332",
+      "exchangeSegment": "NSE_EQ",
+      "label": "NMDC LTD."
+    },
+    {
+      "securityId": "2963",
+      "exchangeSegment": "NSE_EQ",
+      "label": "STEEL AUTHORITY OF INDIA"
+    },
+    {
+      "securityId": "3499",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TATA STEEL LIMITED"
+    },
+    {
+      "securityId": "3063",
+      "exchangeSegment": "NSE_EQ",
+      "label": "VEDANTA LIMITED"
+    },
+    {
+      "securityId": "11821",
+      "exchangeSegment": "NSE_EQ",
+      "label": "WELSPUN CORP LIMITED"
+    }
+  ]
+}
