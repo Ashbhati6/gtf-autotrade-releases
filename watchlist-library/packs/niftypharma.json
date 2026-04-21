@@ -1,0 +1,106 @@
+{
+  "id": "niftypharma",
+  "name": "NIFTYPHARMA",
+  "rows": [
+    {
+      "securityId": "17903",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ABBOTT INDIA LIMITED"
+    },
+    {
+      "securityId": "8124",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AJANTA PHARMA LIMITED"
+    },
+    {
+      "securityId": "11703",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ALKEM LABORATORIES LTD."
+    },
+    {
+      "securityId": "275",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AUROBINDO PHARMA LTD"
+    },
+    {
+      "securityId": "11373",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BIOCON LIMITED."
+    },
+    {
+      "securityId": "694",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CIPLA LTD"
+    },
+    {
+      "securityId": "10940",
+      "exchangeSegment": "NSE_EQ",
+      "label": "DIVI S LABORATORIES LTD"
+    },
+    {
+      "securityId": "881",
+      "exchangeSegment": "NSE_EQ",
+      "label": "DR. REDDY S LABORATORIES"
+    },
+    {
+      "securityId": "1186",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GLAND PHARMA LIMITED"
+    },
+    {
+      "securityId": "7406",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GLENMARK PHARMACEUTICALS"
+    },
+    {
+      "securityId": "1633",
+      "exchangeSegment": "NSE_EQ",
+      "label": "IPCA LABORATORIES LTD"
+    },
+    {
+      "securityId": "1726",
+      "exchangeSegment": "NSE_EQ",
+      "label": "J B CHEMICALS AND PHARMA"
+    },
+    {
+      "securityId": "19234",
+      "exchangeSegment": "NSE_EQ",
+      "label": "LAURUS LABS LIMITED"
+    },
+    {
+      "securityId": "10440",
+      "exchangeSegment": "NSE_EQ",
+      "label": "LUPIN LIMITED"
+    },
+    {
+      "securityId": "15380",
+      "exchangeSegment": "NSE_EQ",
+      "label": "MANKIND PHARMA LIMITED"
+    },
+    {
+      "securityId": "11571",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PIRAMAL PHARMA LIMITED"
+    },
+    {
+      "securityId": "3351",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SUN PHARMACEUTICAL IND L"
+    },
+    {
+      "securityId": "3518",
+      "exchangeSegment": "NSE_EQ",
+      "label": "TORRENT PHARMACEUTICALS L"
+    },
+    {
+      "securityId": "7506",
+      "exchangeSegment": "NSE_EQ",
+      "label": "WOCKHARDT LIMITED"
+    },
+    {
+      "securityId": "7929",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ZYDUS LIFESCIENCES LTD"
+    }
+  ]
+}
