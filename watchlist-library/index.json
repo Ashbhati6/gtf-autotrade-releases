@@ -31,6 +31,136 @@
       "count": 465,
       "updatedAt": "2026-04-21",
       "file": "packs/nifty-500.json"
+    },
+    {
+      "id": "nifty-bank",
+      "name": "NIFTY BANK",
+      "folderName": "NIFTY BANK",
+      "category": "Sector",
+      "description": "NIFTY BANK watchlist pack",
+      "count": 14,
+      "updatedAt": "2026-04-21",
+      "file": "packs/nifty-bank.json"
+    },
+    {
+      "id": "niftyfinservice",
+      "name": "NIFTYFINSERVICE",
+      "folderName": "NIFTYFINSERVICE",
+      "category": "Sector",
+      "description": "NIFTYFINSERVICE watchlist pack",
+      "count": 20,
+      "updatedAt": "2026-04-21",
+      "file": "packs/niftyfinservice.json"
+    },
+    {
+      "id": "niftyfmcg",
+      "name": "NIFTYFMCG",
+      "folderName": "NIFTYFMCG",
+      "category": "Sector",
+      "description": "NIFTYFMCG watchlist pack",
+      "count": 15,
+      "updatedAt": "2026-04-21",
+      "file": "packs/niftyfmcg.json"
+    },
+    {
+      "id": "niftyit",
+      "name": "NIFTYIT",
+      "folderName": "NIFTYIT",
+      "category": "Sector",
+      "description": "NIFTYIT watchlist pack",
+      "count": 10,
+      "updatedAt": "2026-04-21",
+      "file": "packs/niftyit.json"
+    },
+    {
+      "id": "niftymedia",
+      "name": "NIFTYMEDIA",
+      "folderName": "NIFTYMEDIA",
+      "category": "Sector",
+      "description": "NIFTYMEDIA watchlist pack",
+      "count": 10,
+      "updatedAt": "2026-04-21",
+      "file": "packs/niftymedia.json"
+    },
+    {
+      "id": "niftymetal",
+      "name": "NIFTYMETAL",
+      "folderName": "NIFTYMETAL",
+      "category": "Sector",
+      "description": "NIFTYMETAL watchlist pack",
+      "count": 15,
+      "updatedAt": "2026-04-21",
+      "file": "packs/niftymetal.json"
+    },
+    {
+      "id": "niftypharma",
+      "name": "NIFTYPHARMA",
+      "folderName": "NIFTYPHARMA",
+      "category": "Sector",
+      "description": "NIFTYPHARMA watchlist pack",
+      "count": 20,
+      "updatedAt": "2026-04-21",
+      "file": "packs/niftypharma.json"
+    },
+    {
+      "id": "niftyprivatebank",
+      "name": "NIFTYPRIVATEBANK",
+      "folderName": "NIFTYPRIVATEBANK",
+      "category": "Sector",
+      "description": "NIFTYPRIVATEBANK watchlist pack",
+      "count": 10,
+      "updatedAt": "2026-04-21",
+      "file": "packs/niftyprivatebank.json"
+    },
+    {
+      "id": "niftypsubank",
+      "name": "NIFTYPSUBANK",
+      "folderName": "NIFTYPSUBANK",
+      "category": "Sector",
+      "description": "NIFTYPSUBANK watchlist pack",
+      "count": 12,
+      "updatedAt": "2026-04-21",
+      "file": "packs/niftypsubank.json"
+    },
+    {
+      "id": "niftyrealty",
+      "name": "NIFTYREALTY",
+      "folderName": "NIFTYREALTY",
+      "category": "Sector",
+      "description": "NIFTYREALTY watchlist pack",
+      "count": 10,
+      "updatedAt": "2026-04-21",
+      "file": "packs/niftyrealty.json"
+    },
+    {
+      "id": "saurabh-eye",
+      "name": "SAURABH EYE",
+      "folderName": "SAURABH EYE",
+      "category": "Sector",
+      "description": "SAURABH EYE watchlist pack",
+      "count": 176,
+      "updatedAt": "2026-04-21",
+      "file": "packs/saurabh-eye.json"
+    },
+    {
+      "id": "ravish-eye",
+      "name": "RAVISH EYE",
+      "folderName": "RAVISH EYE",
+      "category": "Sector",
+      "description": "RAVISH EYE watchlist pack",
+      "count": 175,
+      "updatedAt": "2026-04-21",
+      "file": "packs/ravish-eye.json"
+    },
+    {
+      "id": "jatin-eye",
+      "name": "JATIN EYE",
+      "folderName": "JATIN EYE",
+      "category": "Sector",
+      "description": "JATIN EYE watchlist pack",
+      "count": 193,
+      "updatedAt": "2026-04-21",
+      "file": "packs/jatin-eye.json"
     }
   ]
 }
