@@ -1,0 +1,56 @@
+{
+  "id": "niftyrealty",
+  "name": "NIFTYREALTY",
+  "rows": [
+    {
+      "securityId": "625",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ADITYA BIRLA REAL EST LTD"
+    },
+    {
+      "securityId": "13620",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ANANT RAJ LIMITED"
+    },
+    {
+      "securityId": "15184",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BRIGADE ENTER. LTD"
+    },
+    {
+      "securityId": "14732",
+      "exchangeSegment": "NSE_EQ",
+      "label": "DLF LIMITED"
+    },
+    {
+      "securityId": "17875",
+      "exchangeSegment": "NSE_EQ",
+      "label": "GODREJ PROPERTIES LTD"
+    },
+    {
+      "securityId": "3220",
+      "exchangeSegment": "NSE_EQ",
+      "label": "LODHA DEVELOPERS LIMITED"
+    },
+    {
+      "securityId": "20242",
+      "exchangeSegment": "NSE_EQ",
+      "label": "OBEROI REALTY LIMITED"
+    },
+    {
+      "securityId": "14552",
+      "exchangeSegment": "NSE_EQ",
+      "label": "THE PHOENIX MILLS LTD"
+    },
+    {
+      "securityId": "20302",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PRESTIGE ESTATE LTD"
+    },
+    {
+      "securityId": "13826",
+      "exchangeSegment": "NSE_EQ",
+      "label": "SOBHA LIMITED"
+    }
+  ]
+}
