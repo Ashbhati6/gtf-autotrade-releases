@@ -1,0 +1,76 @@
+{
+  "id": "nifty-bank",
+  "name": "NIFTY BANK",
+  "rows": [
+    {
+      "securityId": "21238",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AU SMALL FINANCE BANK LTD"
+    },
+    {
+      "securityId": "5900",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AXIS BANK LIMITED"
+    },
+    {
+      "securityId": "4668",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BANK OF BARODA"
+    },
+    {
+      "securityId": "10794",
+      "exchangeSegment": "NSE_EQ",
+      "label": "CANARA BANK"
+    },
+    {
+      "securityId": "1023",
+      "exchangeSegment": "NSE_EQ",
+      "label": "FEDERAL BANK LTD"
+    },
+    {
+      "securityId": "1333",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HDFC BANK LTD"
+    },
+    {
+      "securityId": "4963",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ICICI BANK LTD."
+    },
+    {
+      "securityId": "11184",
+      "exchangeSegment": "NSE_EQ",
+      "label": "IDFC FIRST BANK LIMITED"
+    },
+    {
+      "securityId": "5258",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INDUSIND BANK LIMITED"
+    },
+    {
+      "securityId": "1922",
+      "exchangeSegment": "NSE_EQ",
+      "label": "KOTAK MAHINDRA BANK LTD"
+    },
+    {
+      "securityId": "10666",
+      "exchangeSegment": "NSE_EQ",
+      "label": "PUNJAB NATIONAL BANK"
+    },
+    {
+      "securityId": "3045",
+      "exchangeSegment": "NSE_EQ",
+      "label": "STATE BANK OF INDIA"
+    },
+    {
+      "securityId": "10753",
+      "exchangeSegment": "NSE_EQ",
+      "label": "UNION BANK OF INDIA"
+    },
+    {
+      "securityId": "11915",
+      "exchangeSegment": "NSE_EQ",
+      "label": "YES BANK LIMITED"
+    }
+  ]
+}
