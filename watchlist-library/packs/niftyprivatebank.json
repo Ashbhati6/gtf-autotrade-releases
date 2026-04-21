@@ -1,0 +1,56 @@
+{
+  "id": "niftyprivatebank",
+  "name": "NIFTYPRIVATEBANK",
+  "rows": [
+    {
+      "securityId": "5900",
+      "exchangeSegment": "NSE_EQ",
+      "label": "AXIS BANK LIMITED"
+    },
+    {
+      "securityId": "2263",
+      "exchangeSegment": "NSE_EQ",
+      "label": "BANDHAN BANK LIMITED"
+    },
+    {
+      "securityId": "1023",
+      "exchangeSegment": "NSE_EQ",
+      "label": "FEDERAL BANK LTD"
+    },
+    {
+      "securityId": "1333",
+      "exchangeSegment": "NSE_EQ",
+      "label": "HDFC BANK LTD"
+    },
+    {
+      "securityId": "4963",
+      "exchangeSegment": "NSE_EQ",
+      "label": "ICICI BANK LTD."
+    },
+    {
+      "securityId": "11184",
+      "exchangeSegment": "NSE_EQ",
+      "label": "IDFC FIRST BANK LIMITED"
+    },
+    {
+      "securityId": "5258",
+      "exchangeSegment": "NSE_EQ",
+      "label": "INDUSIND BANK LIMITED"
+    },
+    {
+      "securityId": "1922",
+      "exchangeSegment": "NSE_EQ",
+      "label": "KOTAK MAHINDRA BANK LTD"
+    },
+    {
+      "securityId": "18391",
+      "exchangeSegment": "NSE_EQ",
+      "label": "RBL BANK LIMITED"
+    },
+    {
+      "securityId": "11915",
+      "exchangeSegment": "NSE_EQ",
+      "label": "YES BANK LIMITED"
+    }
+  ]
+}
