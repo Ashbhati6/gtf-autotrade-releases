@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-21",
+  "updatedAt": "2026-04-22",
   "items": [
     {
       "id": "index-watch",
@@ -171,6 +171,16 @@
       "count": 186,
       "updatedAt": "2026-04-21",
       "file": "packs/f-and-o-stocks.json"
+    },
+    {
+      "id": "arun500",
+      "name": "ARUN500",
+      "folderName": "ARUN500",
+      "category": "Sector",
+      "description": "ARUN500 watchlist pack",
+      "count": 543,
+      "updatedAt": "2026-04-22",
+      "file": "packs/arun500.json"
     }
   ]
 }
