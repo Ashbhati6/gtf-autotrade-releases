@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-22",
+  "updatedAt": "2026-05-16",
   "items": [
     {
       "id": "index-watch",
@@ -181,6 +181,16 @@
       "count": 543,
       "updatedAt": "2026-04-22",
       "file": "packs/arun500.json"
+    },
+    {
+      "id": "saurabh-personal",
+      "name": "Saurabh Personal",
+      "folderName": "Saurabh Personal",
+      "category": "Sector",
+      "description": "Saurabh Personal watchlist pack",
+      "count": 501,
+      "updatedAt": "2026-05-16",
+      "file": "packs/saurabh-personal.json"
     }
   ]
 }
